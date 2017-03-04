@@ -1,0 +1,2 @@
+# The main tree doesn't provide blas through eigen:3 but the overlay can.
+dev-cpp/eigen:3::gentoo
